@@ -1,6 +1,6 @@
 return {
   name = "james2doyle/cookie",
-  version = "0.0.1",
+  version = "0.0.2",
   homepage = "https://github.com/james2doyle/lit-cookie",
   description = "Parse and serialize cookies",
   tags = {

@@ -139,5 +139,7 @@ local function serialize(name, val, options)
   return join(results, '; ')
 end
 
-exports.parse = parse
-exports.serialize = serialize
+return {
+  parse = parse,
+  serialize = serialize
+}
